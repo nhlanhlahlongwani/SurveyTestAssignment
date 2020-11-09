@@ -1,0 +1,31 @@
+c:\users\risim\onedrive\documents\visual studio 2015\Projects\Part2\Part2\bin\Debug\Part2.exe.config
+c:\users\risim\onedrive\documents\visual studio 2015\Projects\Part2\Part2\bin\Debug\Part2.exe
+c:\users\risim\onedrive\documents\visual studio 2015\Projects\Part2\Part2\bin\Debug\Part2.pdb
+c:\users\risim\onedrive\documents\visual studio 2015\Projects\Part2\Part2\obj\Debug\Part2.csprojResolveAssemblyReference.cache
+c:\users\risim\onedrive\documents\visual studio 2015\Projects\Part2\Part2\obj\Debug\Part2.Form1.resources
+c:\users\risim\onedrive\documents\visual studio 2015\Projects\Part2\Part2\obj\Debug\Part2.Form2.resources
+c:\users\risim\onedrive\documents\visual studio 2015\Projects\Part2\Part2\obj\Debug\Part2.Properties.Resources.resources
+c:\users\risim\onedrive\documents\visual studio 2015\Projects\Part2\Part2\obj\Debug\Part2.csproj.GenerateResource.Cache
+c:\users\risim\onedrive\documents\visual studio 2015\Projects\Part2\Part2\obj\Debug\Part2.exe
+c:\users\risim\onedrive\documents\visual studio 2015\Projects\Part2\Part2\obj\Debug\Part2.pdb
+C:\Users\User\Downloads\Part2\Part2\Part2\bin\Debug\Part2.exe.config
+C:\Users\User\Downloads\Part2\Part2\Part2\obj\Debug\Part2.exe
+C:\Users\User\Downloads\Part2\Part2\Part2\obj\Debug\Part2.pdb
+C:\Users\User\Downloads\Part2\Part2\Part2\bin\Debug\Part2.exe
+C:\Users\User\Downloads\Part2\Part2\Part2\bin\Debug\Part2.pdb
+C:\Users\User\Downloads\Part2\Part2\Part2\obj\Debug\Part2.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Part2\Part2\Part2\obj\Debug\Part2.Form1.resources
+C:\Users\User\Downloads\Part2\Part2\Part2\obj\Debug\Part2.Form2.resources
+C:\Users\User\Downloads\Part2\Part2\Part2\obj\Debug\Part2.Properties.Resources.resources
+C:\Users\User\Downloads\Part2\Part2\Part2\obj\Debug\Part2.csproj.GenerateResource.Cache
+C:\Users\risim\Downloads\Part222\Part2\Part2\Part2\bin\Debug\Part2.exe.config
+C:\Users\risim\Downloads\Part222\Part2\Part2\Part2\obj\Debug\Part2.exe
+C:\Users\risim\Downloads\Part222\Part2\Part2\Part2\obj\Debug\Part2.pdb
+C:\Users\risim\Downloads\Part222\Part2\Part2\Part2\bin\Debug\Part2.exe
+C:\Users\risim\Downloads\Part222\Part2\Part2\Part2\bin\Debug\Part2.pdb
+C:\Users\risim\Downloads\Part222\Part2\Part2\Part2\obj\Debug\Part2.csprojResolveAssemblyReference.cache
+C:\Users\risim\Downloads\Part222\Part2\Part2\Part2\obj\Debug\Part2.Form1.resources
+C:\Users\risim\Downloads\Part222\Part2\Part2\Part2\obj\Debug\Part2.Form2.resources
+C:\Users\risim\Downloads\Part222\Part2\Part2\Part2\obj\Debug\Part2.Properties.Resources.resources
+C:\Users\risim\Downloads\Part222\Part2\Part2\Part2\obj\Debug\Part2.csproj.GenerateResource.Cache
+C:\Users\risim\Downloads\Part222\Part2\Part2\Part2\obj\Debug\Part2.Form3.resources
